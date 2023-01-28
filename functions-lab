@@ -1,0 +1,30 @@
+# Challenge 1
+def sum_to(n):
+    print(n * (n+1) // 2)
+
+sum_to(6)
+sum_to(10)
+
+
+
+
+# Challenge 2
+# Write a function named largestthat takes a list of numbers as an argument and returns the largest number in that list.
+# def largest(*nums):
+#     lg_num = num in nums > nums in nums
+
+#     return lg_num
+
+
+# Challenge 3
+# Write a function named occurancesthat takes two string arguments as input and counts the number of occurances of the second string inside the first string.
+# def occurances(string, ocs):
+#     return ()
+
+# count = 0 
+
+
+# Challenge 4
+# Write a function named productthat takes an arbitrary number of numbers, multiplies them all together, and returns the product.
+# (HINT: Review your notes on *args)
+
